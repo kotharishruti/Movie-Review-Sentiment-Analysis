@@ -1,4 +1,4 @@
-# Movie-Review-Sentiment-Analysis
+# Sentiment-Analysis-of-Movie-Reviews
 Classify movie reviews as positive or negative (TF-IDF and Word2Vec vectors using SVM, Naive Bayes,Random Forest and Logistic Regression)
 
 Download Word2Vec trained model from here:
